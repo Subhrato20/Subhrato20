@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Subhrato20
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently doing my Undergrad studies
+- 💞️ I’m looking to collaborate on Machine Learning and Web Dev Projects
