@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science related Projects**
 
-- 💬 Ask me about **Machine Learning, Databases and Backend Frameworks like Express**
+- 💬 Ask me about **Machine Learning, Databases and Backend Frameworks**
 
 - 📫 Reach me @ **subhratosom17@gmail.com**
 
