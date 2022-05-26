@@ -21,7 +21,6 @@
   <a href="https://stackoverflow.com/users/14220008/subhrato-som" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="subhrato-som" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/subhrato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="subhrato" height="30" width="40" /></a>
   <a href="https://hashnode.com/@subhrato20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@subhrato20" height="30" width="40" /></a>
-<a href="https://medium.com/@subhratosom17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@subhratosom17" height="30" width="40" /></a>
 <a href="https://dev.to/subhrato20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="subhrato20" height="30" width="40" /></a>
 </p>
 
