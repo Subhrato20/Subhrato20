@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subhrato Som</h1>
-<h3 align="center">A passionate Data Scientist from India</h3> <br>
+<h3 align="center">A passionate Data Scientist</h3> <br>
 
 - 🔭 I’m currently working on [Social Network Analysis](https://github.com/Subhrato20/Twitter-Network-Analysis-using-Networkx-and-Cytoscape)
 
