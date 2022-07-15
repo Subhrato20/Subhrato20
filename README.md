@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Subhrato Som</h1>
-<h3 align="center">A passionate Data Scientist</h3> <br>
+<h3 align="center">A passionate Machine Learning Engineer</h3> <br>
 
-- 🔭 I’m currently working on [Social Network Analysis](https://github.com/Subhrato20/Twitter-Network-Analysis-using-Networkx-and-Cytoscape)
+- 🔭 I’m currently working on [Generating-New-Superhero-Characters-Using-GAN](https://github.com/Subhrato20/Generating-New-Superhero-Characters-Using-GAN)
 
 - 🌱 I’m currently learning **Django, React and Angular**
 
