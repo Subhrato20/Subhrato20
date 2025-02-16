@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Subhrato Som</h1>
-<h3 align="center">A passionate Machine Learning Engineer</h3> <br>
+
+![Black And White Aesthetic Minimalist Modern Simple Typography Coconut Cosmetics Logo (1584 x 500 px)](https://github.com/user-attachments/assets/45e97672-dba6-406e-81ac-f95193c24d0b)
 
 
 - 🌱 I’m currently learning **Django, PostgreSQL and Docker**
