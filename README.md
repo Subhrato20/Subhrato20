@@ -11,7 +11,6 @@
 - **📍 Current Focus:** Research on **LLMs** and advanced natural language processing at Drexel’s Social-NLP Lab.  
 - **🏆 Achievements:** Winner @ **Philly Codefest 2024**.  
 
----
 
 ## 🛠️ Tech Stack
 
@@ -54,5 +53,13 @@ Feel free to reach out to me on the following platforms:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Subhrato_Som-blue?style=for-the-badge)](https://linkedin.com/in/subhratosom)  
 [![Email](https://img.shields.io/badge/Email-subhratosom17@gmail.com-red?style=for-the-badge)](mailto:subhratosom17@gmail.com)
+
+
+## 🌐 Other Profiles
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/subhratosom)  
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/Subhrato20)  
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14220008/subhrato)
+
 
 
