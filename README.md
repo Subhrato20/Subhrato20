@@ -59,7 +59,10 @@ Feel free to reach out to me on the following platforms:
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/subhratosom)  
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/Subhrato20)  
-[![Stack Overflow](https://img.shields.io/badge/StackOverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14220008/subhrato)
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14220008/subhrato)  
+[![GitLab](https://img.shields.io/badge/GitLab-9d9db1?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Subhrato20)
+
+
 
 
 
