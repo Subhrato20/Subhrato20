@@ -7,9 +7,9 @@
 
 ## 📖 About Me
 👋 Hi, I'm Subhrato Som! I'm a Master's student at Drexel University, passionate about **Artificial Intelligence**, and **Machine Learning**. My focus is on creating impactful projects that blend cutting-edge technologies with practical applications.
-- **💻 Specializations:** AI Automation, Machine Learning, Cloud Computing, and Web Development.  
-- **📍 Current Focus:** Research on **LLMs** and advanced natural language processing at Drexel’s Social-NLP Lab.  
-- **🏆 Achievements:** Winner at **Philly Codefest 2024**.  
+- **💻 Specializations:** AI Agent, Machine Learning, Cloud Native Solutions.  
+- **📍 Current Focus:** Learning to implement AI/ML solution with Rust.  
+- **🏆 Achievements:** 2x Hackathon Winner.  
 
 
 ## 🛠️ Tech Stack
