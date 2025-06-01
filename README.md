@@ -7,7 +7,7 @@
 ## 📖 About Me
 👋 Hi, I'm Subhrato Som! I'm a Master's student at Drexel University, passionate about **Artificial Intelligence**, and **Machine Learning**. My focus is on creating impactful projects that blend cutting-edge technologies with practical applications.
 - **💻 Specializations:** AI Agent, Machine Learning, RAG.  
-- **📍 Current Focus:** Learning to implement AI/ML solution with Rust, Building MCP Server.  
+- **📍 Current Focus:** Learning LLM Inferences.  
 - **🏆 Achievements:** 3x Hackathon Winner.  
 
 
